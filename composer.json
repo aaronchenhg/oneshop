@@ -8,7 +8,6 @@
       "email": "guangganchg@163.com"
     }
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "oneshop\\": "src/"
